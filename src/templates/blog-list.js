@@ -115,7 +115,7 @@ export const query = graphql`
           title
           slug
           excerpt
-          featured_image_src
+
         }
       }
     }
